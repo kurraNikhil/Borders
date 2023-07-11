@@ -1,0 +1,132 @@
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+  
+}
+
+body{
+     background-color: pink;
+}
+.box1{
+       margin-left: 106px;
+       margin-top: 56px;
+       background-color:white;
+       display: inline-block;
+       border-radius: 29px;
+       width:300px;
+     border-top-left-radius: 10px;
+     box-shadow:inset 0px   10px red;
+     
+}
+
+.material-symbols-outlined{
+  padding-left: 138px;
+  padding-top: 30px;
+  font-size: 40px;
+}
+h2{
+  padding-left: 66px;
+}
+.box2{
+  margin-left: 106px;
+  margin-top: 56px;
+  background-color:#f6f9fa;
+  display: inline-block;
+  border-radius: 29px;
+  width:300px;
+ border-top-left-radius: 10px;
+ box-shadow:inset 0px   10px #195263;
+ 
+}
+
+.fa {
+  padding-left: 138px;
+  padding-top: 22px;
+  font-size: 40px;
+  
+}
+.pa{
+      padding-left: 10px;
+}
+.box3{
+  margin-left: 106px;
+  margin-top: 56px;
+  background-color:#f6f9fa;
+  display: inline-block;
+  border-radius: 29px;
+  width:300px;
+border-top-left-radius: 10px;
+box-shadow:inset 0px   10px #e6a24f;
+height:164px;
+}
+.pp{
+  padding-left: 10px;
+}
+.material-symbols-outlined{
+  padding-left: 138px;
+  padding-top: 22px;
+  font-size: 40px;
+  
+}
+.icon-cloud-download{
+  font-size:40px;
+  padding-left: 124px;
+  padding-top: 22px;
+  margin-bottom: 30px;
+  font-size: 40px;
+  padding-bottom: 90px;
+}
+.box4{
+  margin-left: 106px;
+  margin-top: 56px;
+  background-color:#f6f9fa;
+  display: inline-block;
+  border-radius: 29px;
+  width:300px;
+border-top-left-radius: 10px;
+box-shadow:inset 0px   10px #84caca;
+height:164px;
+
+}
+.pd{
+  padding-left: 10px;
+}
+.material-symbols-outlined{
+  font-size: 40px;
+}
+.box5{
+  margin-left: 106px;
+  margin-top: 56px;
+  background-color:#f6f9fa;
+  display: inline-block;
+  border-radius: 29px;
+  width:300px;
+border-top-left-radius: 10px;
+box-shadow:inset 0px   10px #f7e289;
+}
+.para{
+  padding-left: 14px;
+}
+.box6{ margin-left: 106px;
+  margin-top: 56px;
+  background-color:#f6f9fa;
+  display: inline-block;
+  border-radius: 29px;
+  width:300px;
+border-top-left-radius: 10px;
+box-shadow:inset 0px   10px #1e769e;}
+.pl{
+  padding-left: 14px;
+}
+.large{
+  padding-left: 138px;
+  padding-top: 22px;
+  margin-bottom: -76px;
+  font-size: 40px;
+  padding-bottom:-76px;
+      
+}

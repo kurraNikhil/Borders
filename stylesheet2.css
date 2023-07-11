@@ -1,0 +1,138 @@
+body{
+    background-color:rgb(59, 141, 114) ;
+}
+.fix{
+    position: relatives;
+}
+.box1{
+  margin-left:128px;
+    width:300px;
+    border-style:none;
+    color:rgb(26, 24, 24);
+    margin-top: 70px;
+    height:150px;
+    padding-left:36px;
+}
+.box2{
+        position: absolute;
+        top:66px;
+        left:487px;
+        width:300px;
+        border-style:dotted;
+        color:rgb(12, 6, 6);
+        height:150px;
+        text-align:center;
+        border-color: white;
+        padding-top: 10px;
+        border-width:5px;
+
+}
+.d{
+    padding-top: 30px;
+}
+.n{
+    padding-top: 61px;
+}
+.box3{
+    position: absolute;
+    top:66px;
+    left:925px;
+    width:300px;
+    border-style:dashed;
+    color:rgb(12, 6, 6);
+    height:150px;
+    text-align:center;
+    border-color: white;
+    padding-top: 10px;
+    border-width: 7px;
+}
+.da{
+    padding-top: 30px;
+}
+.box4{
+          width:300px;
+          height:150px;
+          position: absolute;
+          top:318px;
+          left:56px;
+          border-style: solid;
+          border-color: white;
+          text-align: center;
+          padding-top: 10px;
+    border-width: 7px;
+}
+.s{
+    padding-top: 30px;
+}
+.box5{
+    width:300px;
+    height:150px;
+    position: absolute;
+    top:318px;
+    left:484px;
+    border-style: double;
+    border-color: white;
+    text-align: center;
+    padding-top: 10px;
+border-width: 7px;
+}
+.box6{
+    width:300px;
+    height:150px;
+    position: absolute;
+    top:318px;
+    left:925px;
+    border-style: groove;
+    border-color: white;
+    text-align: center;
+    padding-top: 10px;
+border-width: 7px;
+}
+.g{
+    padding-top: 30px;
+}
+.box7{
+    width:300px;
+    height:150px;
+    position: absolute;
+    top:578px;
+    left:56px;
+    border-style:ridge;
+    border-color: white;
+    text-align: center;
+    padding-top: 10px;
+border-width: 7px;
+}
+.r{
+    padding-top: 30px;
+}
+.box8{
+    width:300px;
+    height:150px;
+    position: absolute;
+    top:578px;
+    left:482px;
+    border-style:inset;
+    border-color: white;
+    text-align: center;
+    padding-top: 10px;
+border-width: 7px;
+}
+.i{
+    padding-top: 30px;
+}
+.box9{
+    width:300px;
+    height:150px;
+    position: absolute;
+    top:578px;
+    left:925px;
+    border-style:outset;
+    border-color: white;
+    text-align: center;
+    padding-top: 10px;
+border-width: 7px;
+}
+.o{
+    padding-top: 30px;
+}
